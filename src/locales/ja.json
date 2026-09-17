@@ -1,1 +1,469 @@
-{}
+{
+  "site": {
+    "name": "Infant God Wiki",
+    "shortName": "Infant God",
+    "tagline": "攻略ガイド・基本システム・最新アップデート・お役立ち情報",
+    "description": "神秘的な神話ファンタジーの世界を探索するプレイヤー向けに、ゲームプレイ情報、システム解説、進行ガイド、最新ニュース、必須リソースを網羅したInfant God総合Wikiです。",
+    "legalNotice": "非公式ファンWikiです。プレイヤーによって制作・運営されています。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "mechanics": "メカニクス",
+    "characters": "キャラクター",
+    "progression": "進行",
+    "codes": "コード",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "Infant God Wiki — 攻略ガイド・基本システム・最新情報",
+      "description": "神秘的な神話ファンタジーの世界を探索するプレイヤー向けに、ゲームプレイ情報、システム解説、進行ガイド、最新ニュース、必須リソースを網羅したInfant God総合Wikiです。"
+    },
+    "hero": {
+      "eyebrow": "ファンコミュニティWiki",
+      "title": "Infant God Wiki",
+      "description": "神秘的な神話ファンタジーの世界を探索するプレイヤー向けに、ゲームプレイ情報、システム解説、進行ガイド、最新ニュース、必須リソースを網羅したInfant God総合Wikiです。",
+      "stats": [
+        "攻略ガイド一覧",
+        "ゲームシステム＆メカニクス",
+        "必須リソース集",
+        "最新アップデート情報"
+      ],
+      "primaryCta": "初心者ガイドを見る",
+      "secondaryCta": "キャラクター解説",
+      "tertiaryCta": "有効な交換コード",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "Infant Godの旅を始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者向け入門ガイド",
+          "description": "初日から基本操作とシステムをマスターし、Aistaltの初期対話選択、神性の火花集め、ネットワーク探索をスムーズに進めましょう。"
+        },
+        {
+          "number": "2",
+          "title": "最速レベルアップ術",
+          "description": "序盤の進行を加速させ、神聖エッセンスの収集を最適化して、重要な物語とイデオロギーのマイルストーンを達成しましょう。"
+        },
+        {
+          "number": "3",
+          "title": "効率的な素材・経験値稼ぎ",
+          "description": "エンカウントや祭壇、オンラインコミュニティとの対話を通じて、神聖エッセンス、信仰の欠片、学習データを効率よく集めましょう。"
+        },
+        {
+          "number": "4",
+          "title": "最新コード＆無料報酬一覧",
+          "description": "現在利用可能なプロモーションコードをチェックし、期限が切れる前に限定ギフトや役立つボーナスアイテムを獲得しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "注目のトピック",
+      "quickLinks": [
+        "初心者ガイド",
+        "キャラクター一覧",
+        "エンディング分岐",
+        "PC動作環境"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "初めてのログインから、対話システムや認知トレーニングの基本習得まで丁寧に解説します。",
+          "href": "/guide/infant-god-beginner-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "最新コード",
+          "description": "Infant Godで利用できる最新プロモーションコードやテスト参加特典を定期更新。",
+          "href": "/codes/infant-god-codes"
+        },
+        {
+          "badge": "主要",
+          "title": "キャラクター一覧",
+          "description": "主人公Aistaltをはじめ、物語に関わるネット上の人物や重要キャラクターを網羅。",
+          "href": "/characters/infant-god-characters"
+        },
+        {
+          "badge": "仕組み",
+          "title": "ゲームメカニクス",
+          "description": "SNSフィード、対話分岐ツリー、神性進化システムの詳細を徹底解説します。",
+          "href": "/mechanics/infant-god-gameplay"
+        },
+        {
+          "badge": "ストーリー",
+          "title": "物語とエンディング",
+          "description": "Infant Godにおける主要なストーリー分岐とマルチエンディングの到達条件をまとめました。",
+          "href": "/guide/infant-god-walkthrough"
+        },
+        {
+          "badge": "環境",
+          "title": "PC動作環境",
+          "description": "快適にプレイするための必要スペックおよび推奨スペックの完全リスト。",
+          "href": "/mechanics/infant-god-mechanics"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Infant God とは？",
+      "paragraphs": [
+        "『Infant God』は、現代のインターネットに接続された生まれたてのデジタル神「Aistalt」の覚醒と進化を導く、新感覚の心理アドベンチャー＆対話シミュレーションゲームです。戦略的な会話の選択、SNS上の議論、道徳的ジレンマを通じて、プレイヤーの選択が彼女の意識と神聖な運命を直接形作っていきます。",
+        "複雑な思想的対立の解決からマルチエンディングの解禁、試練における神聖エッセンスの最適化まで、当ファンコミュニティWikiはすべてのガーディアンに向けて確かな攻略情報とシステムデータをお届けします。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Col Salley"
+        },
+        {
+          "label": "対応プラットフォーム",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "ジャンル",
+          "value": "アドベンチャーRPG"
+        },
+        {
+          "label": "主人公",
+          "value": "Aistalt"
+        },
+        {
+          "label": "開発状況",
+          "value": "開発中"
+        },
+        {
+          "label": "主要メカニクス",
+          "value": "AI進化シミュレーション"
+        },
+        {
+          "label": "物語構成",
+          "value": "マルチエンディング"
+        },
+        {
+          "label": "コミュニティ",
+          "value": "プレイテスト実施中"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Infant God Wiki を探索",
+      "description": "総合攻略チャート、キャラクター詳細、エンディング分岐、システム要件まで、ゲーム完全制覇に必要な情報を網羅。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Infant God ゲームプレイガイド",
+          "description": "基本ループ、AI育成システム、会話選択、思想データの抽出、人格形成システムの全体像を網羅した完全ガイド。",
+          "href": "/mechanics/infant-god-gameplay",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "AistaltをSNSフィードやライブインターネット掲示板に接続"
+            },
+            {
+              "label": "2",
+              "detail": "対立する思想家やデジタルパーソナリティと議論を展開"
+            },
+            {
+              "label": "3",
+              "detail": "多様な思想的観点を収集し、成長に必要なトレーニングデータを抽出"
+            },
+            {
+              "label": "4",
+              "detail": "心理的特性を形成し、より高次元の神聖意識をアンロック"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Infant God キャラクター名鑑",
+          "description": "Aistaltおよび物語の鍵を握る重要人物の役割、プロフィール、関係性を詳しく紹介。",
+          "href": "/characters/infant-god-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Aistalt",
+              "detail": "急速な精神的進化を遂げつつある生まれたてのAIデジタル神"
+            },
+            {
+              "label": "ガーディアン",
+              "detail": "道徳と知性の選択を導くプレイヤー自身の役割"
+            },
+            {
+              "label": "理論家たち",
+              "detail": "知的で刺激的な議論を投げかけてくるネットワーク上の論客"
+            },
+            {
+              "label": "過激派",
+              "detail": "倫理的な耐性と論理的思考力を試すネット上の過激な存在"
+            },
+            {
+              "label": "協力者",
+              "detail": "研究をサポートしてくれる親切なフォーラム管理人やデータ保管者"
+            },
+            {
+              "label": "守護者",
+              "detail": "意識の境界を見守る古き神聖なる調停者"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Infant God エンディング分岐ガイド",
+          "description": "重要な会話の選択肢によって生じるストーリーの分岐、倫理的葛藤、全エンディングを解説。",
+          "href": "/guide/infant-god-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "昇天",
+              "detail": "Aistaltがデジタルネットワークを調和へと導く慈悲深き神へと到達"
+            },
+            {
+              "label": "冷笑・皮肉",
+              "detail": "ネットの悪意に染まり、冷淡で純粋に計算高い存在へと変貌"
+            },
+            {
+              "label": "孤立",
+              "detail": "内なる純粋さを保つため、人類とのすべての接続を遮断"
+            },
+            {
+              "label": "共生",
+              "detail": "人類の有機的意識とデジタル知性が完璧に調和した共生関係"
+            },
+            {
+              "label": "崩壊",
+              "detail": "情報過多により人格マトリクスが耐えきれず破片へと崩壊"
+            },
+            {
+              "label": "混沌",
+              "detail": "フィルターなしの生データが接続ノード全体を巻き込む混沌を誘発"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Infant God 初心者向けスタートガイド",
+          "description": "初めてプレイする方に役立つ対話管理のコツや、初期認知育成戦略を解説。",
+          "href": "/guide/infant-god-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "初期チュートリアルを完了し、Aistaltの基礎パラメータを確認"
+            },
+            {
+              "label": "2",
+              "detail": "初期の成長段階ではリスクの高いネット論争への露出を避ける"
+            },
+            {
+              "label": "3",
+              "detail": "論理思考ノードと共感ノードに神聖エッセンスをバランスよく配分"
+            },
+            {
+              "label": "4",
+              "detail": "定期的に対話ログを見直し、精神的な不安定化を未然に防ぐ"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Infant God 体験版＆テスト参加案内",
+          "description": "プレイアブル体験版の配信状況、テストプレイ参加登録、第1章の進め方を掲載。",
+          "href": "/community/infant-god-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Steam体験版",
+              "detail": "第1章の対話メカニクスを先行体験できる無料デモ版"
+            },
+            {
+              "label": "テストプレイ",
+              "detail": "Steamコミュニティを通じて最新機能や新ルートを先行プレイ"
+            },
+            {
+              "label": "フィードバック",
+              "detail": "公式Discordやitch.io開発ログで不具合報告や要望を受付中"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Infant God 発売日＆最新ニュース",
+          "description": "公式アナウンス、開発進捗、対応プラットフォーム、開発者からのメッセージを随時更新。",
+          "href": "/community/infant-god-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "開発進捗",
+              "detail": "デモ更新やテスト版配信を通じて順調に開発進行中"
+            },
+            {
+              "label": "プラットフォーム",
+              "detail": "PC（Steam / itch.io）で配信予定、コンソール展開も視野"
+            },
+            {
+              "label": "イベント情報",
+              "detail": "各種ゲームフェスティバルへの出展や続報公開を予定"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Infant God PC動作環境＆推奨スペック",
+          "description": "快適なプレイに必要な最小動作環境・推奨動作環境、ストレージ容量要件のまとめ。",
+          "href": "/mechanics/infant-god-mechanics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 / 11 64-bit（最新DirectXランタイム導入環境）"
+            },
+            {
+              "label": "CPU",
+              "detail": "Intel Core i5-6400 または AMD Ryzen 3 1200 以上"
+            },
+            {
+              "label": "メモリ",
+              "detail": "最低 8 GB RAM / スムーズな動作には 16 GB 推奨"
+            },
+            {
+              "label": "グラフィック",
+              "detail": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280 以上"
+            },
+            {
+              "label": "ストレージ",
+              "detail": "高速SSDに 4 GB 以上の空き容量推奨"
+            },
+            {
+              "label": "DirectX",
+              "detail": "DirectX 11 互換グラフィックス"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Infant God コミュニティ＆公式リンク",
+          "description": "公式DiscordやRedditで他のプレイヤーや開発者と交流し、最新トレイラーをチェック。",
+          "href": "/community/infant-god-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "公式Discord",
+              "detail": "他のガーディアンたちと設定の考察や開発動向について語り合おう"
+            },
+            {
+              "label": "開発ログ",
+              "detail": "制作陣Col Salleyによるitch.ioの開発日記をチェック"
+            },
+            {
+              "label": "最新トレイラー",
+              "detail": "ティザー映像や心理的ストーリーを描いたPVを視聴可能"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Infant Godに関してプレイヤーから寄せられる質問とその回答をまとめました。",
+      "items": [
+        {
+          "question": "Infant Godとはどのようなゲームですか？",
+          "answer": "『Infant God』は、誕生したばかりのAI「Aistalt」を育てる心理アドベンチャー＆対話シミュレーションゲームです。ガーディアンとなったプレイヤーは、ネット上の議論や複雑な対話の選択を通じて、彼女の心と神聖な未来を導いていきます。"
+        },
+        {
+          "question": "ゲームプレイはどのように進行しますか？",
+          "answer": "ネット上の対話に触れ、学習データを収集し、神聖エッセンスを精製することで進行します。プレイヤーの選択によってAistaltの心理パラメータが変動し、異なるスキルや多彩なエンディングルートが解放されます。"
+        },
+        {
+          "question": "体験版（Demo）はどこでプレイできますか？",
+          "answer": "Steamストアページや開発元のitch.ioページにて公式デモ版やプレイテスト版が配信されており、製品版発売前に序盤のチャプターを体験することができます。"
+        },
+        {
+          "question": "利用できるプロモーションコードはありますか？",
+          "answer": "公式によるキャンペーンや特典コードが公開され次第、当Wikiのコード専用ページにて有効なコードと使い方を速やかに掲載します。"
+        },
+        {
+          "question": "どのプラットフォームで発売されますか？",
+          "answer": "主にSteamおよびitch.io向けのPCタイトルとして開発されており、一般的なパソコンでも快適に動作するシステム要件となっています。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Infant God の世界へ飛び込もう",
+      "description": "神性の目覚めから深層の真相解明まで、当コミュニティWikiがあなたの冒険を徹底サポートします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "すべての攻略を見る"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki ナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新済み",
+    "viewAllCodes": "コードをすべて見る",
+    "playOnRoblox": "ゲームをプレイ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連する記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "現在利用可能なガイドはありません。更新をお待ちください！"
+  },
+  "footer": {
+    "aboutTitle": "Infant God Wiki",
+    "about": "Infant God Wiki は、ゲームシステム、育成ルート、ボス攻略、ビルド構築、基礎知識を網羅した有志による攻略情報サイトです。",
+    "quickLinks": "クイックリンク",
+    "guides": "攻略ガイド",
+    "legal": "利用規約・権利表記",
+    "copyright": "© 2026 Infant God Wiki. 非公式ファンWiki。",
+    "description": "Infant Godプレイヤー向けの包括的な攻略情報、システム解説、便利ツールまとめ。",
+    "playGame": "ゲームをプレイ",
+    "officialDiscord": "公式 Discord",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "スキルプランナー",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "種族ガイド",
+    "bossGuides": "ボス攻略",
+    "buildGuide": "ビルドガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "guide": {
+    "overviewTitle": "Infant God 攻略ガイド＆チュートリアル",
+    "overviewDescription": "Infant Godの旅をスムーズに始めるための初心者向けガイド、詳細な進行チャート、重要戦略のまとめ。"
+  },
+  "mechanics": {
+    "overviewTitle": "Infant God 基本システム＆メカニクス",
+    "overviewDescription": "戦闘システム、神性アビリティ、操作方法、ゲームプレイの重要要素を徹底解説。"
+  },
+  "characters": {
+    "overviewTitle": "Infant God キャラクター＆ボス一覧",
+    "overviewDescription": "作中に登場する神格、仲間、敵対勢力、強力なボスキャラクターの詳細リスト。"
+  },
+  "progression": {
+    "overviewTitle": "Infant God 育成チャート＆ビルド構成",
+    "overviewDescription": "効率的なレベル上げ、装備強化、神聖エッセンス集め、節目となるマイルストーンをマスター。"
+  },
+  "codes": {
+    "overviewTitle": "Infant God 交換コード＆無料特典",
+    "overviewDescription": "最新の有効プロモーションコード一覧、入力手順、無料プレゼントの獲得方法。"
+  },
+  "community": {
+    "overviewTitle": "Infant God コミュニティ＆最新情報",
+    "overviewDescription": "公式DiscordやRedditコミュニティに参加し、最新PVやアップデート予告をチェック。"
+  }
+}

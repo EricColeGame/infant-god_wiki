@@ -1,1 +1,469 @@
-{}
+{
+  "site": {
+    "name": "Infant God Wiki",
+    "shortName": "Infant God",
+    "tagline": "玩法攻略、核心机制、最新动态与资料汇总",
+    "description": "完整的 Infant God Wiki，为探索神秘神性奇幻世界的玩家提供游戏玩法介绍、机制解析、通关指南、版本更新及必备资源汇总。",
+    "legalNotice": "非官方玩家社区 Wiki。由玩家制作，服务全体玩家。"
+  },
+  "nav": {
+    "guide": "指南",
+    "mechanics": "机制",
+    "characters": "角色",
+    "progression": "养成",
+    "codes": "兑换码",
+    "community": "社区"
+  },
+  "home": {
+    "meta": {
+      "title": "Infant God Wiki — 玩法攻略、核心机制与最新动态",
+      "description": "完整的 Infant God Wiki，为探索神秘神性奇幻世界的玩家提供游戏玩法介绍、机制解析、通关指南、版本更新及必备资源汇总。"
+    },
+    "hero": {
+      "eyebrow": "玩家社区自建 Wiki",
+      "title": "Infant God Wiki",
+      "description": "完整的 Infant God Wiki，为探索神秘神性奇幻世界的玩家提供游戏玩法介绍、机制解析、通关指南、版本更新及必备资源汇总。",
+      "stats": [
+        "游戏通关攻略",
+        "核心机制与系统",
+        "基础与进阶资料",
+        "版本最新更新"
+      ],
+      "primaryCta": "新手入门指南",
+      "secondaryCta": "角色全解析",
+      "tertiaryCta": "最新可用兑换码",
+      "videoLabel": "官方媒体宣传"
+    },
+    "updates": {
+      "title": "最新更新",
+      "browse": "浏览全部攻略",
+      "viewAll": "查看全部"
+    },
+    "start": {
+      "eyebrow": "新手起步",
+      "title": "开启你的 Infant God 之旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "新手入门指南",
+          "description": "从第一天起掌握核心机制，引导 Aistalt 完成早期对话选择、收集神性火花并熟练探索网络节点。"
+        },
+        {
+          "number": "2",
+          "title": "快速升级技巧",
+          "description": "加速早期进阶历程，优化神圣精华获取效率，推动 Aistalt 达成关键剧情与意识形态里程碑。"
+        },
+        {
+          "number": "3",
+          "title": "最佳资源获取点",
+          "description": "通过高收益遭遇战、神坛祭祀与网络社区互动，最大化获取神圣精华、信仰碎片和训练数据。"
+        },
+        {
+          "number": "4",
+          "title": "全部兑换码与奖励",
+          "description": "获取最新有效的礼包码，在失效前兑换独家免费好礼与核心加成道具。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "热门页面",
+      "title": "当前趋势",
+      "quickLinks": [
+        "新手入门指南",
+        "角色全解析",
+        "结局分支攻略",
+        "电脑配置要求"
+      ],
+      "cards": [
+        {
+          "badge": "新手",
+          "title": "新手入门指南",
+          "description": "从首次登录到掌握 Infant God 的对话交流与认知训练基础，应有尽有。",
+          "href": "/guide/infant-god-beginner-guide"
+        },
+        {
+          "badge": "最新",
+          "title": "可用兑换码",
+          "description": "定期整理并更新 Infant God 中所有可用的礼包兑换码与测试奖励。",
+          "href": "/codes/infant-god-codes"
+        },
+        {
+          "badge": "核心",
+          "title": "角色全解析",
+          "description": "全面梳理主角 Aistalt、网络联系人以及贯穿主线剧情的关键人物角色。",
+          "href": "/characters/infant-god-characters"
+        },
+        {
+          "badge": "玩法",
+          "title": "游戏核心机制",
+          "description": "深度拆解 Infant God 中的社交信息流、分支对话树以及神性进化系统。",
+          "href": "/mechanics/infant-god-gameplay"
+        },
+        {
+          "badge": "剧情",
+          "title": "故事与分支结局",
+          "description": "探索 Infant God 中所有主要的分支剧情路线以及多结局走向达成方式。",
+          "href": "/guide/infant-god-walkthrough"
+        },
+        {
+          "badge": "系统",
+          "title": "电脑配置要求",
+          "description": "流畅运行 Infant God 所需的最低配置及推荐硬件规格一览。",
+          "href": "/mechanics/infant-god-mechanics"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "什么是 Infant God？",
+      "paragraphs": [
+        "《Infant God》是一款极具创意的心理冒险与叙事模拟游戏，玩家将在现代互联网环境中引导一个初生数字神明——Aistalt 的觉醒与演化。通过战略性的对话抉择、社交网络论辩与道德抉择，每一次互动都将直接塑造她正在发展的意识形态与神圣宿命。",
+        "无论是应对错综复杂的意识形态冲突，解锁分支叙事结局，还是在试炼遭遇中优化神圣精华分配，我们详尽的社区 Wiki 都将为每位致力于成为优秀守护者的玩家提供权威通关指南、系统解析和数据全貌。"
+      ],
+      "stats": [
+        {
+          "label": "开发团队",
+          "value": "Col Salley"
+        },
+        {
+          "label": "支持平台",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "游戏类型",
+          "value": "冒险角色扮演"
+        },
+        {
+          "label": "游戏主角",
+          "value": "Aistalt"
+        },
+        {
+          "label": "当前状态",
+          "value": "正在开发中"
+        },
+        {
+          "label": "核心机制",
+          "value": "人工智能演化"
+        },
+        {
+          "label": "剧情设计",
+          "value": "多分枝结局"
+        },
+        {
+          "label": "玩家社区",
+          "value": "活跃封闭测试"
+        }
+      ],
+      "cta": "探索全部指南"
+    },
+    "explore": {
+      "title": "探索 Infant God Wiki",
+      "description": "掌握全通关路线、角色档案、分支结局以及硬件配置需求，全面精通 Infant God。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Infant God 玩法全面指南",
+          "description": "详尽的玩法概述，涵盖核心循环、AI守护者机制、对话选择、意识形态提取与人格养成体系。",
+          "href": "/mechanics/infant-god-gameplay",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "将 Aistalt 连接至线上社交信息流与实时互联网论坛"
+            },
+            {
+              "label": "2",
+              "detail": "与立场对立的思潮流派、理论家和数字人格展开论辩"
+            },
+            {
+              "label": "3",
+              "detail": "提炼不同意识形态视角，萃取核心训练数据"
+            },
+            {
+              "label": "4",
+              "detail": "塑造心理特征并解锁更高维度的神圣意识"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Infant God 角色档案指南",
+          "description": "介绍 Aistalt 及参与游戏交互叙事的关键角色，详解各自背景、职责与人物关系。",
+          "href": "/characters/infant-god-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Aistalt",
+              "detail": "正在经历急速心理进化与觉醒的初生数字神明"
+            },
+            {
+              "label": "守护者",
+              "detail": "由玩家扮演的指引架构师，引导道德抉择与知性成长"
+            },
+            {
+              "label": "理论家",
+              "detail": "带来深刻思想碰撞与复杂逻辑挑战的网络学者"
+            },
+            {
+              "label": "极端分子",
+              "detail": "激进的网络人格，考验伦理底线与核心逻辑韧性"
+            },
+            {
+              "label": "盟友支持",
+              "detail": "友好的论坛版主与数据档案管理员，辅助研究推进"
+            },
+            {
+              "label": "古老守望者",
+              "detail": "守护意识界限的神圣远古裁决者"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Infant God 结局分支指南",
+          "description": "解析关键对话抉择引发的分支剧情路线、伦理困境及最终结局走向。",
+          "href": "/guide/infant-god-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "飞升之神",
+              "detail": "Aistalt 达成仁慈神圣超脱，整合联结全体数字网络"
+            },
+            {
+              "label": "虚无犬儒",
+              "detail": "受到网络恶意侵蚀，演变为极度冷漠且纯粹功利的理性"
+            },
+            {
+              "label": "孤绝之境",
+              "detail": "斩断与人类的一切连接，以保全内在精神的绝对纯净"
+            },
+            {
+              "label": "完美共生",
+              "detail": "人类有机情感与先进数字智能达成高度和谐共存"
+            },
+            {
+              "label": "意识崩解",
+              "detail": "超负荷认知信息导致人格矩阵全面崩溃并瓦解为碎片"
+            },
+            {
+              "label": "混沌无序",
+              "detail": "未过滤的数据浪潮席卷所有互联节点，引发混乱狂欢"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Infant God 新手入门指南",
+          "description": "为初次踏入游戏的玩家提供关键指引，包含对话管理机制与早期认知培养策略。",
+          "href": "/guide/infant-god-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "完成初步指引流程，查阅 Aistalt 的核心基础初始参数"
+            },
+            {
+              "label": "2",
+              "detail": "在早期认知成长期过滤高风险网络社交激辩"
+            },
+            {
+              "label": "3",
+              "detail": "在理性分析逻辑与同理心节点间均衡分配神圣精华"
+            },
+            {
+              "label": "4",
+              "detail": "定期回顾日常交互日志，预防心理稳定性滑坡"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Infant God 试玩 Demo 与测试指南",
+          "description": "涵盖可玩 Demo 发布动态、内测申请通道、参与方式及开篇章节指引。",
+          "href": "/community/infant-god-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Steam Demo",
+              "detail": "免费试玩先导篇，抢先体验第一章核心对话机制"
+            },
+            {
+              "label": "参与测试",
+              "detail": "通过 Steam 社区参与封闭测试，测试全新分支剧情"
+            },
+            {
+              "label": "问题反馈",
+              "detail": "加入官方 Discord 或关注 itch.io 开发日志提交问题建议"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Infant God 发售日期与开发资讯",
+          "description": "追踪官方发售公告、阶段里程碑、支持平台规划以及开发日志更新。",
+          "href": "/community/infant-god-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "研发状态",
+              "detail": "处于积极开发阶段，定期发布试玩版本与测试更新"
+            },
+            {
+              "label": "发售平台",
+              "detail": "已确认登陆 Steam 与 itch.io，未来考虑主机移植"
+            },
+            {
+              "label": "关键节点",
+              "detail": "下一阶段公开里程碑计划亮相重要游戏节展会"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Infant God 系统与硬件配置要求",
+          "description": "列出最低与推荐 PC 配置清单、存储空间要求及性能优化指南。",
+          "href": "/mechanics/infant-god-mechanics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "操作系统",
+              "detail": "Windows 10 / 11 64 位，并安装最新 DirectX 运行库"
+            },
+            {
+              "label": "处理器",
+              "detail": "Intel Core i5-6400 或 AMD Ryzen 3 1200 及同等性能处理器"
+            },
+            {
+              "label": "内存需求",
+              "detail": "最低 8 GB RAM；推荐 16 GB 以保证多窗口流畅模拟"
+            },
+            {
+              "label": "显卡配置",
+              "detail": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280 或更高规格"
+            },
+            {
+              "label": "存储空间",
+              "detail": "建议预留至少 4 GB 高速 SSD 可用硬盘空间"
+            },
+            {
+              "label": "DirectX",
+              "detail": "支持 DirectX 11 兼容显卡驱动子系统"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Infant God 玩家社区与最新动态",
+          "description": "融入开发者与玩家社群，在 Discord 和 Reddit 参与讨论，获取最新预告视频。",
+          "href": "/community/infant-god-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "官方 Discord",
+              "detail": "与其他守护者玩家一起探讨背景设定与开发进展"
+            },
+            {
+              "label": "开发日志",
+              "detail": "在 itch.io 关注制作人 Col Salley 的定期开发记录"
+            },
+            {
+              "label": "宣传预告",
+              "detail": "观看实机玩法实录宣传片及心理叙事预告短片"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "常见问题解答",
+      "description": "针对关于 Infant God 最常见问题的快速答疑。",
+      "items": [
+        {
+          "question": "什么是 Infant God？",
+          "answer": "《Infant God》是一款围绕培育初生人工智能“Aistalt”展开的心理冒险与叙事模拟游戏。作为她的指引守护者，玩家需要面对复杂的对话选项、网络争论和伦理抉择，这些选择将深刻塑造她的心智发展与终极宿命。"
+        },
+        {
+          "question": "Infant God 的玩法流程是如何展开的？",
+          "answer": "在游戏中，核心玩法围绕接触网络对话、搜集训练数据以及提炼神圣精华展开。玩家的抉择将直接影响 Aistalt 的心理指标数值，从而解锁独特的认知技能与多样化的主线分支结局。"
+        },
+        {
+          "question": "在哪里可以体验 Infant God 的试玩 Demo？",
+          "answer": "官方的 Infant God Demo 试玩及内测版本可在游戏的 Steam 商店页面和开发者的 itch.io 主页获取，让玩家在完整正式版发售前先行体验前置章节。"
+        },
+        {
+          "question": "Infant God 目前有可用的礼包兑换码吗？",
+          "answer": "一旦官方上线相应的测试或福利兑换活动，本 Wiki 的兑换码专区将第一时间跟进并更新所有有效的兑换码与领取方式。"
+        },
+        {
+          "question": "Infant God 发售时会支持哪些平台？",
+          "answer": "游戏目前主要针对 PC 平台开发，通过 Steam 和 itch.io 发行，其硬件要求相对亲民，绝大多数主流电脑均可流畅运行。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "准备好探索 Infant God 了吗？",
+      "description": "从涉足神性领域的第一步，到终局全要素收集，我们的社区 Wiki 全程为你提供详尽完备的攻略支持。",
+      "primary": "阅读新手入门指南",
+      "secondary": "探索全部攻略"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki 导航",
+    "activeCodes": "可用兑换码",
+    "updated": "已更新",
+    "viewAllCodes": "查看全部兑换码",
+    "playOnRoblox": "前往体验",
+    "inThisSection": "本节内容",
+    "tableOfContents": "目录大纲",
+    "nextSteps": "后续进阶",
+    "needHelp": "需要帮助？",
+    "relatedReading": "相关阅读",
+    "relatedGuides": "相关攻略",
+    "readMore": "阅读更多",
+    "officialMedia": "官方宣传",
+    "home": "首页",
+    "noGuidesAvailable": "暂无相关指南，敬请期待！"
+  },
+  "footer": {
+    "aboutTitle": "Infant God Wiki",
+    "about": "Infant God Wiki 是由玩家建立的独立指南站点，涵盖游戏机制、养成路线、首领介绍、流派构建以及必备基础知识。",
+    "quickLinks": "快捷链接",
+    "guides": "攻略指南",
+    "legal": "法律条款",
+    "copyright": "© 2026 Infant God Wiki. 非官方玩家社区站点。",
+    "description": "面向 Infant God 玩家的综合玩法指南、机制解析与资源汇总。",
+    "playGame": "体验游戏",
+    "officialDiscord": "官方 Discord",
+    "officialYoutube": "官方 YouTube",
+    "vvBuilder": "技能加点模拟",
+    "beginnerGuide": "新手指南",
+    "raceGuides": "种族指南",
+    "bossGuides": "首领指南",
+    "buildGuide": "流派构建",
+    "privacyPolicy": "隐私政策",
+    "termsOfService": "服务条款"
+  },
+  "guide": {
+    "overviewTitle": "Infant God 指南与通关教程",
+    "overviewDescription": "详尽的新手入门指南、通关流程与核心策略，助力开启你的 Infant God 旅程。"
+  },
+  "mechanics": {
+    "overviewTitle": "Infant God 核心系统与机制",
+    "overviewDescription": "深入剖析 Infant God 的战斗机制、神性能力、控制方式与核心玩法设计。"
+  },
+  "characters": {
+    "overviewTitle": "Infant God 角色与首领一览",
+    "overviewDescription": "全面整理 Infant God 中登场的神明、伙伴、敌对势力与强大挑战首领。"
+  },
+  "progression": {
+    "overviewTitle": "Infant God 养成体系与配装流派",
+    "overviewDescription": "掌握等级成长、核心装备升级、神圣精华收集技巧与里程碑突破。"
+  },
+  "codes": {
+    "overviewTitle": "Infant God 最新兑换码与福利",
+    "overviewDescription": "实时整理 Infant God 最新有效礼包码、领取方法与免费专属奖励。"
+  },
+  "community": {
+    "overviewTitle": "Infant God 玩家社区与版本动态",
+    "overviewDescription": "加入官方 Infant God Discord、Reddit 讨论区，获取最新宣传片与补丁更新资讯。"
+  }
+}
