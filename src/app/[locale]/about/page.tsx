@@ -1,10 +1,11 @@
 import { LegalPage } from "@/components/legal-page";
+import { siteConfig } from "@/config/site";
 
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>{siteConfig.name} is an independent fan-built guide hub covering gameplay information, mechanics, guides, updates, and essential resources for players exploring the mysterious divine fantasy world.</p>
+      <p>Our mission is to provide accurate, up-to-date, and comprehensive walkthroughs to help players master game features and progression.</p>
     </LegalPage>
   );
 }
