@@ -29,6 +29,6 @@ export const siteConfig: SiteConfig = {
   gameUrl: "",
   heroVideoId: "",
   social: {},
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "zh-CN", "ja", "ko"],
   defaultLocale: "en",
 };
