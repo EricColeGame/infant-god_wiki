@@ -5,7 +5,7 @@ export interface SiteConfig {
   tagline: string;
   description: string;
   url: string;
-  supportEmail?: string;
+  supportEmail: string;
   gameUrl?: string;
   heroVideoId?: string;
   social?: {
