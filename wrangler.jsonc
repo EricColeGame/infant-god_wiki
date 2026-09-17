@@ -1,0 +1,14 @@
+{
+  "name": "infant-god-wiki",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "infant-god.wiki",
+      "custom_domain": true
+    }
+  ]
+}
