@@ -225,11 +225,11 @@ export async function getContent(contentType: string, slugSegments: string[], la
  * 导航分组结构（用于动态 Wiki Navigation）
  */
 export interface NavGroup {
-  /** 分组标题，来自目录名转人类可读格式，如 "bosses" → "Bosses" */
+  /** 分组标题，来自目录名转人类可读格式，如 "guide" → "Guide" */
   title: string;
   /** 该分组下的文章数量 */
   count: number;
-  /** 分组 slug（即目录名，如 "bosses"） */
+  /** 分组 slug（即目录名，如 "guide"） */
   slug: string;
   /** 文章链接列表 */
   links: Array<{ label: string; href: string; badge?: string }>;
@@ -237,39 +237,66 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
+  guide: "Guide",
+  mechanics: "Mechanics",
+  characters: "Characters",
+  progression: "Progression",
   codes: "Codes",
-  guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  community: "Community",
+};
+
+// 中文分组标题映射
+const GROUP_TITLES_ZH_CN: Record<string, string> = {
+  guide: "入门指南",
+  mechanics: "核心机制",
+  characters: "角色图鉴",
+  progression: "养成进阶",
+  codes: "兑换码",
+  community: "玩家社区",
 };
 
 // 日文分组标题映射
 const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+  guide: "攻略ガイド",
+  mechanics: "基本システム",
+  characters: "キャラクター",
+  progression: "育成・進行",
+  codes: "特典コード",
+  community: "コミュニティ",
+};
+
+// 韩文分组标题映射
+const GROUP_TITLES_KO: Record<string, string> = {
+  guide: "공략 가이드",
+  mechanics: "게임 시스템",
+  characters: "캐릭터 도감",
+  progression: "성장 및 진행",
+  codes: "쿠폰 코드",
+  community: "커뮤니티",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
+  "zh-CN": GROUP_TITLES_ZH_CN,
   ja: GROUP_TITLES_JA,
+  ko: GROUP_TITLES_KO,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
+  "zh-CN": "概览",
   ja: "一覧",
+  ko: "개요",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide",
+  "mechanics",
+  "characters",
+  "progression",
+  "codes",
+  "community",
 ];
 
 /**

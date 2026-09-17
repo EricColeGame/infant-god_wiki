@@ -6,7 +6,14 @@
     "description": "Complete Infant God Wiki with gameplay information, mechanics, guides, updates, and essential resources for players exploring the mysterious divine fantasy world.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "progression": "Progression",
+    "codes": "Codes",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "Infant God Wiki — Gameplay Guides, Mechanics & Updates",
@@ -399,7 +406,6 @@
       "secondary": "Explore Guides"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -435,5 +441,29 @@
     "buildGuide": "Build Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Infant God Guides & Tutorials",
+    "overviewDescription": "Comprehensive beginner guides, walkthroughs, and essential gameplay strategies to kickstart your journey in Infant God."
+  },
+  "mechanics": {
+    "overviewTitle": "Infant God Core Mechanics",
+    "overviewDescription": "In-depth breakdown of combat systems, divine abilities, controls, and gameplay features in Infant God."
+  },
+  "characters": {
+    "overviewTitle": "Infant God Characters & Bosses",
+    "overviewDescription": "Complete roster of deities, companions, enemies, and challenging bosses encountered throughout Infant God."
+  },
+  "progression": {
+    "overviewTitle": "Infant God Progression & Builds",
+    "overviewDescription": "Master level scaling, essential gear upgrades, divine essence farming, and milestone rewards in Infant God."
+  },
+  "codes": {
+    "overviewTitle": "Infant God Codes & Rewards",
+    "overviewDescription": "Latest active promo codes, redemption guides, and free rewards for Infant God."
+  },
+  "community": {
+    "overviewTitle": "Infant God Community & Updates",
+    "overviewDescription": "Connect with official Infant God Discord, Reddit communities, trailers, and latest patch announcements."
   }
 }
