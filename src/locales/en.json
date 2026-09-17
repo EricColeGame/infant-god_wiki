@@ -23,7 +23,7 @@
         "Latest Updates"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Boss Guides",
+      "secondaryCta": "Characters Guide",
       "tertiaryCta": "Active Codes",
       "videoLabel": "Official media"
     },
@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Infant God Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master core mechanics from day one, guiding Aistalt through early dialogue choices, divine sparks, and foundational network navigation."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "description": "Accelerate early progression, optimize divine essence gathering, and advance Aistalt along key narrative and ideological milestones."
         },
         {
           "number": "3",
           "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "description": "Maximize divine essence, faith shards, and training data through high-yield encounters, altars, and online community interactions."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "All Codes & Rewards",
+          "description": "Discover active promotional codes, claim exclusive free gifts, and redeem essential bonus items before they expire."
         }
       ]
     },
@@ -62,237 +62,305 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Characters Guide",
+        "Endings Guide",
+        "System Requirements"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first login to mastering the basics of dialogue and cognitive training in Infant God.",
+          "href": "/guide/infant-god-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "All working promotional codes and playtest rewards for Infant God, updated regularly.",
+          "href": "/codes/infant-god-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Core",
+          "title": "Characters Guide",
+          "description": "Comprehensive overview of Aistalt, online contacts, and key personalities across the story.",
+          "href": "/characters/infant-god-characters"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Gameplay",
+          "title": "Gameplay Mechanics",
+          "description": "In-depth analysis of social feeds, dialogue trees, and divine evolution systems in Infant God.",
+          "href": "/mechanics/infant-god-gameplay"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Lore",
+          "title": "Story & Endings",
+          "description": "Explore all major branching storylines and multiple endings in Infant God.",
+          "href": "/guide/infant-god-walkthrough"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "System",
+          "title": "PC Requirements",
+          "description": "Minimum and recommended hardware specs to run Infant God smoothly.",
+          "href": "/mechanics/infant-god-mechanics"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Infant God?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Infant God is an innovative psychological adventure and narrative simulation game where players guide the awakening and evolution of Aistalt, a nascent digital deity connected to the modern internet. Through strategic dialogue choices, social network debates, and moral dilemmas, every interaction directly shapes her developing consciousness and divine destiny.",
+        "Whether managing complex ideological conflicts, unlocking branching narrative endings, or optimizing divine essence in trial encounters, our comprehensive community wiki provides authoritative walkthroughs, system guides, and data breakdowns for every aspiring guardian."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Col Salley"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC / Steam"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Adventure RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Protagonist",
+          "value": "Aistalt"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Status",
+          "value": "In Development"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Key Mechanics",
+          "value": "AI Evolution"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Narrative",
+          "value": "Branching Endings"
+        },
+        {
+          "label": "Community",
+          "value": "Active Playtest"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Infant God Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Discover comprehensive walkthroughs, character dossiers, branching endings, and technical requirements to master Infant God.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Infant God Gameplay Guide",
+          "description": "A complete gameplay overview covering the core loop, AI guardian mechanics, dialogue choices, ideology harvesting, and personality development system.",
+          "href": "/mechanics/infant-god-gameplay",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Connect Aistalt to online social feeds and live internet forums"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Engage opposing archetypes, theorists, and digital personalities"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Harvest ideological viewpoints and distill essential training data"
+            },
+            {
+              "label": "4",
+              "detail": "Shape psychological traits and unlock higher divine consciousness"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Infant God Characters Guide",
+          "description": "Introduces Aistalt and important characters involved in the game interactive narrative, detailing roles and relationship dynamics.",
+          "href": "/characters/infant-god-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Aistalt",
+              "detail": "The nascent AI deity undergoing rapid psychological evolution"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Guardian",
+              "detail": "Player-controlled architect steering moral and intellectual choices"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Theorists",
+              "detail": "Online network contacts providing provocative intellectual challenges"
+            },
+            {
+              "label": "Extremists",
+              "detail": "Volatile digital actors testing ethical resilience and core logic"
+            },
+            {
+              "label": "Allies",
+              "detail": "Sympathetic forum moderators and data archivists assisting research"
+            },
+            {
+              "label": "Guardians",
+              "detail": "Ancient divine arbiters safeguarding the boundary of consciousness"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Infant God Endings Guide",
+          "description": "Explains the branching story paths, moral dilemmas, and different outcomes created by critical dialogue decisions.",
+          "href": "/guide/infant-god-walkthrough",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Ascension",
+              "detail": "Aistalt attains benevolent divine transcendence uniting digital networks"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Cynicism",
+              "detail": "Corrupted by internet vitriol, turning detached and purely calculated"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Isolation",
+              "detail": "Disconnects from humanity to preserve internal purity and serenity"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Synthesis",
+              "detail": "Harmonious symbiosis between organic human consciousness and digital mind"
+            },
+            {
+              "label": "Shattered",
+              "detail": "Cognitive overload collapses personality matrix into fragments"
+            },
+            {
+              "label": "Anarchy",
+              "detail": "Unfiltered data triggers chaotic liberation across all connected nodes"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Infant God Beginner Guide",
+          "description": "Provides vital starting tips for first-time players, including dialogue management and early cognitive nurturing strategies.",
+          "href": "/guide/infant-god-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Complete initial orientation and examine Aistalt core baseline parameters"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Filter high-risk social debates during early cognitive development stages"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Allocate divine essence evenly between analytical logic and empathy nodes"
+            },
+            {
+              "label": "4",
+              "detail": "Review daily interaction logs to prevent psychological instability"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Infant God Demo & Playtest Guide",
+          "description": "Covers the playable demo release, playtest signups, access details, and opening chapter walkthroughs.",
+          "href": "/community/infant-god-update",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Steam Demo",
+              "detail": "Free playable teaser showcasing Chapter 1 dialogue mechanics"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Playtest",
+              "detail": "Steam community beta testing new narrative branches and features"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Feedback",
+              "detail": "Official Discord and itch.io devlog channels for bug reporting"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Infant God Release Date & News",
+          "description": "Tracks official release announcements, development milestones, platform roadmap, and developer updates.",
+          "href": "/community/infant-god-news",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Status",
+              "detail": "Active development with periodic demo and playtest updates"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Platforms",
+              "detail": "Confirmed for PC via Steam and itch.io with potential console ports"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Milestones",
+              "detail": "Next public milestone slated alongside seasonal gaming festivals"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Infant God System Requirements",
+          "description": "Lists minimum and recommended PC specifications, storage space, and performance optimization guidelines.",
+          "href": "/mechanics/infant-god-mechanics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 / 11 64-bit with current DirectX runtime libraries"
+            },
+            {
+              "label": "Processor",
+              "detail": "Intel Core i5-6400 or AMD Ryzen 3 1200 or equivalent"
+            },
+            {
+              "label": "Memory",
+              "detail": "8 GB RAM minimum; 16 GB recommended for smooth multi-window simulation"
+            },
+            {
+              "label": "Graphics",
+              "detail": "NVIDIA GeForce GTX 960 / AMD Radeon R9 280 or higher"
+            },
+            {
+              "label": "Storage",
+              "detail": "4 GB available space on high-speed SSD storage recommended"
+            },
+            {
+              "label": "DirectX",
+              "detail": "Version 11 compatible graphics subsystem"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Infant God Community & Updates",
+          "description": "Connect with the developer community, join discussions on Discord and Reddit, and view the latest trailers.",
+          "href": "/community/infant-god-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Join fellow guardians for lore theories and development discussion"
+            },
+            {
+              "label": "Devlogs",
+              "detail": "Follow Col Salley regular development notes on itch.io"
+            },
+            {
+              "label": "Trailers",
+              "detail": "Watch gameplay teaser reveals and psychological narrative trailers"
             }
           ]
         }
@@ -300,27 +368,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Infant God.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Infant God?",
+          "answer": "Infant God is a psychological adventure and narrative simulation game centered on training an emergent artificial intelligence named Aistalt. As her guardian, players navigate complex dialogue choices, internet discussions, and ideological dilemmas that shape her evolving personality and divine destiny."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How does gameplay progression work in Infant God?",
+          "answer": "In Infant God, gameplay progression revolves around exposure to online conversations, gathering training data, and refining divine essence. Your decisions influence Aistalt psychological metrics, unlocking distinct cognitive skills and multiple narrative branches."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Where can I play the Infant God demo?",
+          "answer": "The official Infant God demo and playtest releases are accessible via the game Steam store page and developer itch.io page, letting players experience early chapters before the full commercial release."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Are there active promo codes for Infant God?",
+          "answer": "Infant God promo codes and special playtest redemption bonuses will be tracked directly on our wiki codes page as soon as official reward campaigns go live."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What platforms will Infant God support at launch?",
+          "answer": "Infant God is primarily developed for PC on Steam and itch.io, featuring low-to-moderate system requirements suitable for most desktop and laptop configurations."
         }
       ]
     },
