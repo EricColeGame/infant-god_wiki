@@ -18,18 +18,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
-  social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
-  },
+  name: "Infant God Wiki",
+  shortName: "Infant God",
+  logoText: "IG",
+  tagline: "Gameplay Guides, Mechanics, Updates & Resources",
+  description: "Complete Infant God Wiki with gameplay information, mechanics, guides, updates, and essential resources for players exploring the mysterious divine fantasy world.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://infant-god.wiki",
+  gameUrl: "",
+  heroVideoId: "",
+  social: {},
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
 };
